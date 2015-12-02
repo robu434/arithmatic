@@ -4,4 +4,6 @@ void main()
 {
  int a,b;
  a=1;
+ printf("Enter the number");
+ scanf("%d",&a);
  }
